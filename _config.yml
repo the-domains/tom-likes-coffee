@@ -1,0 +1,28 @@
+name: Tom Likes Coffee
+favicon: null
+layout_spectrum: 0.5674820984713733
+typography_spectrum: 0.6027148838620633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42157515580765903
+  lightness: 0.5134532237425447
+  saturation: 0.26136545673944056
+  rhythmicContrast: 0.8381092965137213
+purpose: []
